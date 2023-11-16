@@ -105,9 +105,7 @@ main {
     padding-top: 20px;
 }
 
-a:hover {
-    text-decoration: underline !important;
-}
+
 
 #box1 {
     background-image: url('images/card1.jpg');
@@ -118,6 +116,18 @@ a:hover {
     color: black;
 }
 
+a:hover {
+    text-decoration: underline !important;
+}
+
+#box3 {
+    background-image: url('images/card3.jpg');
+}
+
+#box4 {
+    background-image: url('images/card4.jpg');
+    color: black;
+}
 /*
 
 
