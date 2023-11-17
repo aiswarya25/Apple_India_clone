@@ -289,7 +289,7 @@ a:hover {
 
 #box4 {
     background-image: url('ori_img/box4.jpg');
-    color: black;
+    
 }
 
 #box5 {
@@ -324,6 +324,27 @@ a:hover {
 }
 */
 
+/*properties in box 2
+
+.category .box21 {
+    text-align: center;
+    height: 80vh;
+    width: 50%;
+    margin: 10px;
+    background-size: cover;
+    padding-top: 44px;
+    color: #181515;
+}
+
+*/
+#box4 .label {
+    padding-top: 10px;
+    
+    color: #fffdfd;
+    font-size: 12pt;
+    letter-spacing: 2px;
+    
+}
 
 .category .box41 {
     text-align: center;
